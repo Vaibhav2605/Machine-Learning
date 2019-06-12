@@ -1,0 +1,4 @@
+Database used is of IMDB movie ratings containing 4 files - xtest,xtrain,ytest and ytrain.
+First - the data is cleaned using NLP and a new output file is made called - clean_xtain for training the model.
+
+Then Naive Bayes is used for prediction of the ratings
