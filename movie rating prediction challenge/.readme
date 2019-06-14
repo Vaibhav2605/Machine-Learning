@@ -1,0 +1,2 @@
+Its a movie rating(pos/neg) prediction challenge ,where a dataset of reviews and label is given .
+Data cleaning is done first, then multinomial Naive Bayes is used for prediction
