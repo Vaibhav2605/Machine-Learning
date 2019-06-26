@@ -1,0 +1,7 @@
+Its a kaggle challenge to predict the survival of passengers in titanic .
+It has 2 files - train.csv,test.csv respectively.
+
+1. First the preprocessing was done on training data in which first the unwanted columns(for survival prediction ) were removed and label encoding was done for categorical data(sex column).
+2. Same process for testing data.
+3. From the training data 2 seperate datasets of y(output) and x (input columns) were made.
+4. Decision Tree classifier was used afterwards.
